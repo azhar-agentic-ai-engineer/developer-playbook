@@ -1,5 +1,3 @@
-### Azhar
-
 # 🚀 Next.js & FastAPI Applications → Docker Image → Docker Hub (Step by Step)
 
 In this Guide / Video you will learn:
